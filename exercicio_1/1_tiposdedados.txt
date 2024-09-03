@@ -1,0 +1,15 @@
+A)inteiro
+B)booleano
+C)string
+D)float
+E)string
+F)inteiro
+G)inteiro
+H)booleano
+I)string
+J)inteiro
+K)float
+L)float
+M)inteiro
+N)inteiro
+O)string
